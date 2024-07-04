@@ -1,0 +1,8 @@
+newmtl Material_1
+Ka 0.501961 0.501961 0.501961
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8.000000
+map_Kd Gotham_Skyline_BuildingBLock01_D.png
+

@@ -1,0 +1,16 @@
+newmtl C:\Users\user1\AppData\Local\Temp\nfb1.tmp0681a66e.fbm/fence_alp
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd fence_alpha.png
+
+newmtl C:\Users\user1\AppData\Local\Temp\nfb1.tmp0681a66e.fbm/fence_com
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd fence_composite01.png
+

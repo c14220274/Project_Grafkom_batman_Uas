@@ -1,0 +1,8 @@
+newmtl D_Diffuse_shader
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 10.00000
+map_Kd D_Diffuse.png
+
